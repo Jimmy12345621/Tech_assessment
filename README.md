@@ -1,5 +1,5 @@
 # Tech_assessment
-Tech_assessment_#1.py – Basic Weather App (Tkinter GUI)
+1. Tech_assessment_#1.py – Basic Weather App (Tkinter GUI)
 
 Retrieves current weather and a 5‑day forecast using the OpenWeatherMap API.
 
@@ -7,7 +7,7 @@ Displays weather details and icons in a simple Tkinter window.
 
 Usage: Ideal for testing API integration and basic image display on desktop.
 
-Tech_assessment_#2.py – Advanced Weather App with MySQL
+2. Tech_assessment_#2.py – Advanced Weather App with MySQL
 
 Offers full CRUD (Create, Read, Update, Delete) functionality using a MySQL database.
 
